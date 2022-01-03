@@ -22,3 +22,4 @@ if sys.platform == 'win32':
 else:
     def get_idle_duration():
         return 0
+
